@@ -1,6 +1,6 @@
 
 ### Hi there 👋 My name is Nicte Cortes 
-I’m currently taking CS50: Introduction to computer science course__
+I’m currently taking CS50: Introduction to computer science course <br/ >
 Ask me about my cat's video game (It was my first project so I'm super excited about it)
 More about me: I love to draw and paint and you can find me on instagram as @hijadelosdioses.
 Fun fact: I sing in the shower and dance in the kitchen.
